@@ -1,4 +1,5 @@
 # DOAlertController
+# Swift 3 
 
 Simple Alert View written in Swift, which can be used as a UIAlertController replacement.  
 It supports from iOS7! It is simple and easily customizable!
